@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:d:\code power\baitap_opp\main.cpp
+	<iostream>
+
+1524314280 source:d:\code power\baitap_opp\src\ngaythang.cpp
+	"NgayThang.h"
+
+1524315740 d:\code power\baitap_opp\include\ngaythang.h
+
+1524315740 source:d:\code power\baitap_opp\src\sinhvien.cpp
+	"Sinhvien.h"
+
+1524315740 d:\code power\baitap_opp\include\sinhvien.h
+	<string>
+	"NgayThang.h"
+
